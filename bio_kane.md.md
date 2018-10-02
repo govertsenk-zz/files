@@ -46,7 +46,7 @@ Kris Govertsen is a Masters student at [Northeastern University](http://www.neu.
 - [United States Green Building Council](http://www.usgbc.org/) (USGBC), Member  
 
 ### Personal Links
-[![Twitter](img/links/twitter_30x30.png)](https://twitter.com/thisismikekane) [![LinkedIn](img/links/linkedin_30x30.png)](https://www.linkedin.com/in/krissygovertsen) [![Google+](img/links/gplus_30x30.png)](https://plus.google.com/103584332441459826416/posts) [![Facebook](img/links/fb_30x30.png)](https://www.facebook.com/MBKane)  [![Github](img/links/github_30x30.png)](https://github.com/thisIsMikeKane/) [![Research Gate](img/links/researchgate_30x30.png)](http://localhost:8080/img/researchgate_64x64.png) [![Mendeley](img/links/mendeley_30x30.png)](http://localhost:8080/img/mendeley_64x64.png) [![Google Scholar](img/links/google_scholar_30x30.png)](https://scholar.google.com/citations?hl=en&user=bjgqH0MAAAAJ) [![Publons](img/links/publons_30x30.png)](https://publons.com/a/1349743/)
+[![LinkedIn](img/links/linkedin_30x30.png)](https://www.linkedin.com/in/krissygovertsen) [![Github](img/links/github_30x30.png)](https://github.com/govertsenk) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ2MjAxMDEsMTIyNTMzNzc4N119
+eyJoaXN0b3J5IjpbMjc0MzkxOTM1LDEyMjUzMzc3ODddfQ==
 -->
