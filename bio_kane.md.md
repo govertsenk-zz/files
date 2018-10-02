@@ -1,10 +1,10 @@
-Title: Michael Kane, Ph.D.
-Full_Title: Michael Kane, Ph.D.
-Subtitle: Asst. Prof.
-Year: 2018
-Tags: people
-Order: 2
-Thumbnail: /img/projects/bio_kane.jpg
+Title: Kris Govertsen
+Full_Title: Kris Govertsen, LEED Green Associate, A.M. ASCE  
+Subtitle: Graduate Student  
+Year: 2018  
+Tags: people  
+Order: 2  
+Thumbnail: TBD
 
 
 Assistant Professor
@@ -48,5 +48,5 @@ Michael Kane is an Assistant Professor of [Civil and Environmental Engineering](
 ### Personal Links
 [![Twitter](img/links/twitter_30x30.png)](https://twitter.com/thisismikekane) [![LinkedIn](img/links/linkedin_30x30.png)](https://www.linkedin.com/in/thisismikekane) [![Google+](img/links/gplus_30x30.png)](https://plus.google.com/103584332441459826416/posts) [![Facebook](img/links/fb_30x30.png)](https://www.facebook.com/MBKane) [![YouTube](img/links/youtube_30x30.png)](https://www.youtube.com/user/thisismikekane) [![Github](img/links/github_30x30.png)](https://github.com/thisIsMikeKane/) [![Research Gate](img/links/researchgate_30x30.png)](http://localhost:8080/img/researchgate_64x64.png) [![Mendeley](img/links/mendeley_30x30.png)](http://localhost:8080/img/mendeley_64x64.png) [![Google Scholar](img/links/google_scholar_30x30.png)](https://scholar.google.com/citations?hl=en&user=bjgqH0MAAAAJ) [![Publons](img/links/publons_30x30.png)](https://publons.com/a/1349743/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTMzNzc4N119
+eyJoaXN0b3J5IjpbLTEwNDk5MzQwNDEsMTIyNTMzNzc4N119
 -->
