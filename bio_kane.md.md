@@ -30,16 +30,18 @@ Kris Govertsen is a graduate student at [Northeastern University](http://www.neu
 ### Awards
 
 -   The Class of 1947 Endowed Scholarship - Clarkson University (2015-2018)
+- Kristin M. Layn Scholarship - Clarkson University (2015)
 -   The J.R. Weston Endowed Scholarship - Clarkson University (2016-2018)
+-  [American Society of Civil Engineers Lawrence W. and Francis W. Cox Scholarship]([https://www.clarkson.edu/news/clarkson-university-student-named-2016-american-society-civil-engineers-scholar](https://www.clarkson.edu/news/clarkson-university-student-named-2016-american-society-civil-engineers-scholar)) (2016)
+- [Tau Beta Pi Award]([https://www.clarkson.edu/news/clarkson-university-students-earn-tau-beta-pi-awards](https://www.clarkson.edu/news/clarkson-university-students-earn-tau-beta-pi-awards)) - (2017)
 -   Theodore '56 and Priscilla Nelson Sponsored Scholarship - Clarkson University (2018)
--   Kristin M. Layn Scholarship - Clarkson University (2015)
 -   [Frederica Clarkson Award Recipient]([https://www.clarkson.edu/news/clarkson-university-senior-krissy-govertsen-receives-frederica-clarkson-award](https://www.clarkson.edu/news/clarkson-university-senior-krissy-govertsen-receives-frederica-clarkson-award)) - Clarkson University (2018)
 -   [Chi Epsilon National Scholarship](https://www.chi-epsilon.org/XEWebGeneral2/Documents/2018AwardRecipients.pdf) (2018)
--   [American Society of Civil Engineers Lawrence W. and Francis W. Cox Scholarship]([https://www.clarkson.edu/news/clarkson-university-student-named-2016-american-society-civil-engineers-scholar](https://www.clarkson.edu/news/clarkson-university-student-named-2016-american-society-civil-engineers-scholar)) (2016)
--   [Tau Beta Pi Award]([https://www.clarkson.edu/news/clarkson-university-students-earn-tau-beta-pi-awards](https://www.clarkson.edu/news/clarkson-university-students-earn-tau-beta-pi-awards)) - (2017)
+
+
 
 ### Professional Affiliations
-- Chi Epsilon - National Civil Engineering Honor Society
+- [Chi Epsilon] - National Civil Engineering Honor Society
 -   Tau Beta Pi - National Engineering Honor Society
 -   Phi Kappa Phi - National Multidisciplinary Collegiate Honor Society
 - [American Society of Civil Engineers](http://www.asce.org/) (ASCE), Member  
@@ -48,6 +50,6 @@ Kris Govertsen is a graduate student at [Northeastern University](http://www.neu
 ### Personal Links
 [![LinkedIn](img/links/linkedin_30x30.png)](https://www.linkedin.com/in/krissygovertsen) [![Github](img/links/github_30x30.png)](https://github.com/govertsenk) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTk4NzQ1OCwyNzQzOTE5MzUsMTIyNT
+eyJoaXN0b3J5IjpbMTM3Njk0MDM1NCwyNzQzOTE5MzUsMTIyNT
 MzNzc4N119
 -->
