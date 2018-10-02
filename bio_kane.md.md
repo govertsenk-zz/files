@@ -18,21 +18,14 @@ Kris Govertsen is a Masters student at [Northeastern University](http://www.neu.
 
 
 ### Education
-- B.S., Civil Engineering ([Honors]) - Clarkson University 2018
+- B.S., Civil Engineering ([Honors](https://www.clarkson.edu/honors-program)) - [Clarkson University](https://www.clarkson.edu/) 2018
 
-<![if !supportLists]>· <![endif]>HS Berkshire School - 2015
-- Ph.D., Civil and Environmental Engineering - Systems, University of Michigan, 2014
-- M.S., Electrical Engineering - Control Systems, University of Michigan, 2011
-- M.S., Civil Engineering - Structures, Drexel University, 2009
-- B.S., Architectural Engineering - Structures, Drexel University, 2009
-
+- High School, [Berkshire School](www.berkshireschool.org) - 2015
 
 ### Industrial Experience
-- U.S. Dept of Energy Advanced Research Projects Agency-Energy (ARPA-E), **Fellow** (2014-2016)
-- Illuminvent, LLC, **Inventor** (2012-2013)
-- Amman and Whitney, **Structural Engineer** (2007)
-- McTish, Kunkel, and Associates, **Field Inspector** (2006)
+- General Electric Power and Water, **Environmental Health and Safety Intern** (2015)
 
+-   The Chazen Companies, **Civil Engineering Intern** (2016)
 
 ### Awards
 - Special Acts Award, U.S. Department of Energy (2015)
@@ -50,5 +43,5 @@ Kris Govertsen is a Masters student at [Northeastern University](http://www.neu.
 ### Personal Links
 [![Twitter](img/links/twitter_30x30.png)](https://twitter.com/thisismikekane) [![LinkedIn](img/links/linkedin_30x30.png)](https://www.linkedin.com/in/thisismikekane) [![Google+](img/links/gplus_30x30.png)](https://plus.google.com/103584332441459826416/posts) [![Facebook](img/links/fb_30x30.png)](https://www.facebook.com/MBKane) [![YouTube](img/links/youtube_30x30.png)](https://www.youtube.com/user/thisismikekane) [![Github](img/links/github_30x30.png)](https://github.com/thisIsMikeKane/) [![Research Gate](img/links/researchgate_30x30.png)](http://localhost:8080/img/researchgate_64x64.png) [![Mendeley](img/links/mendeley_30x30.png)](http://localhost:8080/img/mendeley_64x64.png) [![Google Scholar](img/links/google_scholar_30x30.png)](https://scholar.google.com/citations?hl=en&user=bjgqH0MAAAAJ) [![Publons](img/links/publons_30x30.png)](https://publons.com/a/1349743/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc1ODA5MDEsMTIyNTMzNzc4N119
+eyJoaXN0b3J5IjpbNTQzMjA4MTMsMTIyNTMzNzc4N119
 -->
