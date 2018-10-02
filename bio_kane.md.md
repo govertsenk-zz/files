@@ -41,15 +41,15 @@ Kris Govertsen is a graduate student at [Northeastern University](http://www.neu
 
 
 ### Professional Affiliations
-- [Chi Epsilon] - National Civil Engineering Honor Society
--   Tau Beta Pi - National Engineering Honor Society
--   Phi Kappa Phi - National Multidisciplinary Collegiate Honor Society
+- [Chi Epsilon](http://www.chi-epsilon.org/xewebgeneral2/) - National Civil Engineering Honor Society
+-   [Tau Beta Pi](https://www.tbp.org/home.cfm) - National Engineering Honor Society
+-   [Phi Kappa Phi](https://www.phikappaphi.org/) - National Multidisciplinary Collegiate Honor Society
 - [American Society of Civil Engineers](http://www.asce.org/) (ASCE), Member  
 - [United States Green Building Council](http://www.usgbc.org/) (USGBC), Member  
 
 ### Personal Links
 [![LinkedIn](img/links/linkedin_30x30.png)](https://www.linkedin.com/in/krissygovertsen) [![Github](img/links/github_30x30.png)](https://github.com/govertsenk) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Njk0MDM1NCwyNzQzOTE5MzUsMTIyNT
-MzNzc4N119
+eyJoaXN0b3J5IjpbNjc5ODQ0OTY2LDI3NDM5MTkzNSwxMjI1Mz
+M3Nzg3XX0=
 -->
