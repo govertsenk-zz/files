@@ -14,7 +14,7 @@ Boston, MA 02115
 
 ### Biography 
 
-Kris Govertsen is a graduate student at [Northeastern University](http://www.neu.edu) studying for a Master of Science in [Sustainable Building Systems](https://www.northeastern.edu/graduate/program/master-of-science-in-sustainable-building-systems-5284/) and an Interdisciplanary PhD. Her research is focusing on Passive Survivability. Prior to joining Northeastern, Kris was an early college program student at [The Clarkson School](https://www.clarkson.edu/clarkson-school) at [Clarkson University]([https://www.clarkson.edu/](https://www.clarkson.edu/)). Kris stayed at Clarkson and joined their [Honors Program]([https://www.clarkson.edu/honors-program](https://www.clarkson.edu/honors-program)) where she studied Civil Engineering with concentrations in Architectural Engineering, Structural Engineering and Construction Engineering Management. For her undergraduate thesis, she proposed a small business called SMART Start House, LLC, aimed at helping the average american family make their home more Sustainable, Manageable, Affordable, Resilient and Technological. Outside of academia, Kris enjoys [skiing](www.mthood.com), [National Parks](https://www.nps.gov/findapark/index.htm), and taking polaroid pictures.
+Kris Govertsen is a graduate student at [Northeastern University](http://www.neu.edu) studying for a Master of Science in [Sustainable Building Systems](https://www.northeastern.edu/graduate/program/master-of-science-in-sustainable-building-systems-5284/) and an Interdisciplanary PhD. Her research is focusing on passive survivability and resilience. Prior to joining Northeastern, Kris was an early college program student in [The Clarkson School](https://www.clarkson.edu/clarkson-school) at [Clarkson University]([https://www.clarkson.edu/](https://www.clarkson.edu/)). Kris stayed at Clarkson and joined their [Honors Program]([https://www.clarkson.edu/honors-program](https://www.clarkson.edu/honors-program)) where she studied Civil Engineering with concentrations in Architectural Engineering, Structural Engineering and Construction Engineering Management. For her undergraduate thesis, she proposed a small business called SMART Start House, LLC, aimed at helping the average american family make their home more Sustainable, Manageable, Affordable, Resilient and Technological. Outside of academia, Kris enjoys [skiing](www.mthood.com), [National Parks](https://www.nps.gov/findapark/index.htm), and taking polaroid [pictures](https://www.instagram.com/p/BmSYT-6DABOS8tEDHmy6aXoiCzTqMMZtHGIOzk0/?taken-by=krissygovertsen).
 
 
 ### Education
@@ -50,6 +50,6 @@ Kris Govertsen is a graduate student at [Northeastern University](http://www.neu
 ### Personal Links
 [![LinkedIn](img/links/linkedin_30x30.png)](https://www.linkedin.com/in/krissygovertsen) [![Github](img/links/github_30x30.png)](https://github.com/govertsenk) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5ODQ0OTY2LDI3NDM5MTkzNSwxMjI1Mz
-M3Nzg3XX0=
+eyJoaXN0b3J5IjpbNzMyMTgxNDg1LDY3OTg0NDk2NiwyNzQzOT
+E5MzUsMTIyNTMzNzc4N119
 -->
